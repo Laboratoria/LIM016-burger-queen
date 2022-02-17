@@ -1,0 +1,22 @@
+{
+  "name": "lim016-burger-queen",
+  "version": "1.0.0",
+  "description": "burger queen ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElianeRiveraCastillo22/LIM016-burger-queen.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Valeria y Eliane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElianeRiveraCastillo22/LIM016-burger-queen/issues"
+  },
+  "homepage": "https://github.com/ElianeRiveraCastillo22/LIM016-burger-queen#readme"
+}
